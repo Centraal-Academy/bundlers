@@ -1,0 +1,18 @@
+.egyptian-god {
+  background: black;
+  border-width: 1px;
+  border-color: black;
+  padding: 0 1rem;
+}
+
+.egyptian-god--image {
+  width: 250px;
+  max-width: 100%;
+  margin: auto;
+  height: auto;
+}
+
+.egyptian-god--title {
+  text-align: center;
+  color: white;
+}
