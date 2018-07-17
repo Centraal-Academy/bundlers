@@ -1,0 +1,26 @@
+html {
+  background: burlywood;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+#app-container {
+  position: relative;
+  min-height: 100%;
+  background-image: url('https://sm.ign.com/ign_latam/news/s/super-smas/super-smash-bros-creator-confirms-hes-working-on-switch-vers_68re.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.title {
+  margin: 0;
+  padding: 2rem;
+  font-size: 2rem;
+  color: white;
+}
+
+
